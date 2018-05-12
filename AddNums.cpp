@@ -12,3 +12,9 @@ int AddInt(int a , int b)
   return (a+b);
 }
 
+template<class T>
+T AddNums(T a, T b)
+{
+  return (a+b);
+}
+
