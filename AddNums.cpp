@@ -2,5 +2,13 @@
 //
 
 #include "stdafx.h"
+#include <stdio.h>
+#include <iostream>
 
+using namespace std;
+
+int AddInt(int a , int b)
+{
+  return (a+b);
+}
 
